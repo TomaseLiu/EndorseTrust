@@ -1,5 +1,6 @@
-#An algorithm for evaluating the reputation score of workers in a task publish system.
+#EndroseTrust
 
+An algorithm for evaluating the reputation score of workers in a task publish system.
 
 We use a collaborative Filtering method, i.e. Latent Factor, to predict a endorser's confidence to a target task. And then we evaluate the target user's reputation score by taking both the user and his or her endorsers into account. 
 
